@@ -1,6 +1,6 @@
 pragma solidity >=0.7.0 <0.9.0;
 
-contract Count{
+contract Counter{
 //I created a public unassigned integer variable named counter
     uint  public count;
     //Function that increases the counter value by 1
