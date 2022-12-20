@@ -1,2 +1,2 @@
-# counter-solidity
-Counter making with Solidity
+# Making a simple counter with Solidity
+
